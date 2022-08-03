@@ -8,7 +8,7 @@
 - 🌱  Estudiante Desarrollo De Software y Ciberseguridad
 
 ## Contacto
-- 📫  Contactáme via email: andresbuitrago117@gmail.com
+- 📫  Contactáme via gmail: andresbuitrago117@gmail.com
 <div> 
   <a href = "mailto:andresbuitrago117@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
