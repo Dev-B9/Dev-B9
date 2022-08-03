@@ -1,12 +1,17 @@
 
 
-<h1 align="center">¡Hey 👋! Soy B9 👨🏻‍💻</h1>
+## <h1 align="center">¡Hey 👋! Soy B9 👨🏻‍💻</h1>
 
 
 
-
+## Actualidad
 - 🌱  Estudiante Desarrollo De Software y Ciberseguridad
+
+## Contacto
 - 📫  Contactáme via email: andresbuitrago117@gmail.com
+<div> 
+  <a href = "mailto:andresbuitrago117@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 <div display: inline-block; >
 <h3 align="left"> GitHub Stats</h3>
@@ -21,9 +26,4 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
 
-<div> 
-  
-  <a href = "mailto:andresbuitrago117@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-</div>
 
