@@ -2,7 +2,7 @@
 
 
 - 🌱  Estudiante Desarrollo De Software y Ciberseguridad
-- 📫  Contactame via email: andresbuitrago117@gmail.com
+- 📫  Contactáme via email: andresbuitrago117@gmail.com
 
 <div display: inline-block; >
   <a href="https://github.com/dev-b9">
