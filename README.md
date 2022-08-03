@@ -1,10 +1,15 @@
-### ¡Hey 👋! Soy B9 👨🏻‍💻
+
+
+<h1 align="center">¡Hey 👋! Soy B9 👨🏻‍💻</h1>
+
+
 
 
 - 🌱  Estudiante Desarrollo De Software y Ciberseguridad
 - 📫  Contactáme via email: andresbuitrago117@gmail.com
 
 <div display: inline-block; >
+<h3 align="left"> GitHub Stats</h3>
   <a href="https://github.com/dev-b9">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dev-b9&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-b9&layout=compact&langs_count=7&theme=dark"/>
@@ -20,6 +25,6 @@
   
   <a href = "mailto:andresbuitrago117@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
- 
- 
 </div>
+
+![Snake animation](https://github.com/dev-b9/dev-b9/blob/output/github-contribution-grid-snake.svg)
