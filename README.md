@@ -22,7 +22,7 @@ La tecnología está en constante cambio y eso es lo que más me llama la atenci
 <div display: inline-block; >
 <h3 align="left"> GitHub Stats</h3>
   <a href="https://github.com/dev-b9">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dev-b9&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Dev-B9&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-b9&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
