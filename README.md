@@ -2,7 +2,13 @@
 
 ## <h1 align="center">¡Hey 👋! Soy B9 👨🏻‍💻</h1>
 
+Actualmente, me encuentro estudiando Desarrollo De Software y Ciberseguridad, antes de adentrarme al mundo del desarrollo no creía que esto fuera a ser mi dedicación profesional, ya que iba enfocado en la Ciberseguridad, la cual actualmente la sigo estudiando como un hobby, hubo una etapa de mi vida en la que de tanto navegar por la internet quise crear mi propio sitio web, mientras investigaba sobre esto me di cuenta de que no era tan fácil como creía, empece adentrándome cada vez más en este mundo de la programación y hubo un momento en el que decidí entrar a una institución que me brindara los conocimientos necesarios para llevar a cabo mi sueño, mediante pasaba el tiempo cada vez le cogía más cariño a esta profesión, ya que me fascina el hecho de ver código y poder entenderlo, moldearlo a mi gusto, hacer mis ideas realidad...
 
+Considero que donde no tuviera la virtud de estudiar por mi cuenta, no sería la persona que soy ahora, una persona que le apasiona estar en constante aprendizaje, que cuando tiene tiempo libre usualmente lo utiliza para aprender cosas nuevas y así poder llegar a tener mi vida ideal.
+
+Considero que ser desarrollador no es fácil, es bastante frustrante cuando no entiendes algo o no te funciona el código, pero cuando logras estos desafíos es bastante satisfactorio.
+
+La tecnología está en constante cambio y eso es lo que más me llama la atención, ya que siempre podre aprender algo nuevo y sentirme orgulloso de que estoy avanzando.
 
 ## Actualidad
 - 🌱  Estudiante Desarrollo De Software y Ciberseguridad
