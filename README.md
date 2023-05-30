@@ -54,7 +54,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://cloudinary.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/cloudinary/cloudinary-icon.svg" alt="cloudinary" width="40" height="40"/>
+    <img src="https://vectorwiki.com/images/AIm9a__cloudinary.svg" alt="cloudinary" width="40" height="40"/>
   </a>
   <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="cloudflare" width="40" height="40"/>
